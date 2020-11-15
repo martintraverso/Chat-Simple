@@ -1,0 +1,19 @@
+@import "{}/node_modules/bootstrap/scss/bootstrap.scss";
+
+body {
+  padding: 5px;
+  font-family: sans-serif;
+}
+
+.card-body{
+  overflow-y: scroll;
+  height:60vh;
+}
+
+.text-center{
+  padding: 15px;
+}
+.group{
+  background-color:rgba(84, 178, 236, 0.673);
+  
+}
